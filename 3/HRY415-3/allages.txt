@@ -1,0 +1,53 @@
+rs line 
+	datapath
+		efuge to efuge
+		krataei tags tou rob
+
+rs kai ta duo
+	control 
+		efuge to process gia thn diagrafh kai pire thn doulia tou afto gia thn apostolh
+	datapath
+		mux gia ta tags
+		tags eisodos anti eksodos
+	test
+
+issue 
+	ta tags den pernane apo ekei pia
+	rob available elenxos
+	test
+
+top 
+	tag pane kateu8eian sta rs apo rf
+	allagh diepafwn kai sundesewn
+	test
+
+RF
+	V block 
+		efuge to forward apo ton CDB
+		forward apo buffers
+		test
+
+	allagh diepafhs
+	sundesh rob kai neou V block
+
+rob lines
+	diepafh
+	datapath
+	comparator gia done
+	logikh enables
+	flags gia forward
+	exception
+	test
+
+rob control
+	diepafh
+	pointers
+	issue
+	commit
+	forward
+	exceptions
+
+rob 
+	diepafh
+	datapath 
+	test

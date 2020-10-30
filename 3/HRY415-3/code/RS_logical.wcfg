@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/arxitektonikh1/HRY415-project-3/code/RS_logical_test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="rs_logical_test" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/rs_logical_test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/rf_vj" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rf_vj[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rf_vj[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/rf_vk" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rf_vk[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rf_vk[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/rf_qj" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rf_qj[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rf_qj[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/rf_qk" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rf_qk[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rf_qk[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/cdb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">cdb[37:0]</obj_property>
+      <obj_property name="ObjectShortName">cdb[37:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/fop" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">fop[1:0]</obj_property>
+      <obj_property name="ObjectShortName">fop[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/issue_ready" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">issue_ready</obj_property>
+      <obj_property name="ObjectShortName">issue_ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/ready_fu" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ready_fu</obj_property>
+      <obj_property name="ObjectShortName">ready_fu</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/tag_rob" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tag_rob[4:0]</obj_property>
+      <obj_property name="ObjectShortName">tag_rob[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/available" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">available</obj_property>
+      <obj_property name="ObjectShortName">available</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/vj_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">vj_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">vj_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/vk_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">vk_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">vk_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/fop_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">fop_out[1:0]</obj_property>
+      <obj_property name="ObjectShortName">fop_out[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/rs_logical_test/tagfu" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tagfu[4:0]</obj_property>
+      <obj_property name="ObjectShortName">tagfu[4:0]</obj_property>
+   </wvobject>
+</wave_config>

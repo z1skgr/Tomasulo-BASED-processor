@@ -1,0 +1,30 @@
+Command line:
+   tuxaies_entoles_me_eksartiseis_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49757
+
+Thu Dec 20 20:33:20 2018
+
+
+ Elaboration Time: 0.639604 sec
+
+ Current Memory Usage: 622.858 Meg
+
+ Total Signals          : 50920
+ Total Nets             : 11579
+ Total Signal Drivers   : 10057
+ Total Blocks           : 10642
+ Total Primitive Blocks : 7522
+ Total Processes        : 10031
+ Total Traceable Variables  : 61
+ Total Scalar Nets and Variables : 12126
+Total Line Count : 12610
+Total Line Count : 12610
+
+ Total Simulation Time: 1.13881 sec
+
+ Current Memory Usage: 622.858 Meg
+
+Thu Dec 20 20:33:43 2018
+
