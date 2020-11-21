@@ -1,7 +1,7 @@
 # Computer Architecture
  VHDL
 
-#First Workshop Requested <br />
+# First Workshop Requested <br />
 Design of key parts of the system <br />
 1) Reservation Stations + Functional Unit + Local Control. <br />
 2) Register File. <br />
@@ -16,10 +16,10 @@ Design of key parts of the system <br />
 1) numerical Functional. Unit <br />
 2) logical Function Unit. <br />
 
-#Second Workshop Requested <br />
+# Second Workshop Requested <br />
 Simple Tomasulo based processor back-end. Connection of  <br />individual components to test total system. Corner case are  tested.
 
-#Third Workshop Requested <br />
+# Third Workshop Requested <br />
 Tomasulo based processor back-end modification. The functionality of order validation using a
 Buffer Buffer (mandatory), and memory accessibility through a unified Ld/St memory access queue is imported to the system.
 Register file(and register status) is replaced with reordered buffer. An additional module, a memory access through a unified
