@@ -1,5 +1,5 @@
 # Dynamic/PipelineProcessor
->   Parallelism standards for accelerating performance on calculations
+>   Simple Tomasulo based processor back-end using VHDL.
 
 
 
