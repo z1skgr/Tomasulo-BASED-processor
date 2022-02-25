@@ -11,18 +11,19 @@
 
 
 ## General Information
-in the next workshops you will partially implement the core of a dynamic processor
-pipeline based on tomasulo's algorithm. Its basic elements are: (a)
-Reservation Stations, Functional Units, Register File (Register Result Status), Common Data Bus
-(CDB), and checking the above. the design should be structured to allow
-changes later (namely the introduction of a Reorder Buffer and an access unit
-memory
+Implement the core of a dynamic processor pipeline based on tomasulo's algorithm.
+Its basic elements are: 
 
+* Reservation Stations 
+* Functional Units 
+* Register File (Register Result Status)
+* Common Data Bus (CDB), 
+* Interconnections
 
-
-
-
-
+Controlling and accessing the Common Data Bus is pipelined in two cycles. 
+* First cycle [^1]  – A check for access arbitration) and 
+* Second cycle [^2] -  Broadcast of the tag (Q) from
+the selected module in the rest of the system, 
 
 ## Parts
 * Tomasulo algorithm
@@ -34,3 +35,5 @@ Xilinx ISE® design suite 13.7 and above
 ## Acknowledgements
 * This project was created for the requirements of the lesson Computer Architecture
 
+[^1]: One cycle before the completion of the operation
+[^2]: As well as its notification result (V).
