@@ -37,7 +37,13 @@
 
 
 ## Schematic
+### Full stack
 https://github.com/z1skgr/Tomasulo-BASED-processor/issues/2#issue-1151794102
+
+### Reorder buffer
+https://github.com/z1skgr/Tomasulo-BASED-processor/issues/3#issue-1151798739
+
+### Memory LD/ST
 
 For more details, see [doc](https://github.com/z1skgr/Tomasulo-BASED-processor/tree/main/3/docs/schematics)
 
