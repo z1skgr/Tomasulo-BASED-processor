@@ -1,4 +1,4 @@
-# Tomasulor Algorithm
+# Tomasulo Algorithm
 
 Simple Tomasulo based processor back-end using VHDL. 
 
