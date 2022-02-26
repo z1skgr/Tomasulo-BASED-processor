@@ -2,8 +2,8 @@
 
 ## Table of contents
 * [General Info](#general-information)
-* [Parts](#parts)
-* [Setup](#setup)
+* [Components](#components)
+* [Schematic](#schematic)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -21,6 +21,8 @@ Controlling and accessing the Common Data Bus is pipelined in two cycles.
 * First cycle [^1]  : A check for access arbitration 
 * Second cycle [^2] :  Broadcast of the tag (Q) from the selected module in the rest of the system
 
+
+## Components
 ### Reservation Stations 
 * Logic CDB.Q to keep CDB.V (5 bits)
 * Connection RS -> FU ( RS.Q)
@@ -70,7 +72,7 @@ type = 01, Fop = 00, Ri = 1, Rj = 2, Rk = 3)
 ### Interconnections
 * Unit interfaces
 
-### Schematic
+## Schematic
 https://github.com/z1skgr/Tomasulo-BASED-processor/issues/1#issue-1151689577 <br>
 
 For more details on each individual part see 1/doc
