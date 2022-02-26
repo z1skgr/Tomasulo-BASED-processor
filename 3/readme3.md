@@ -9,11 +9,10 @@
 
 ## General Information
 1. Command validation functionality
+      * Reorder buffer
 2. Memory access capability via a unified 
+      * Ld / St memory access queue 
 
-
-1. Reorder buffer
-2. Ld / St memory access queue 
 
 
 
