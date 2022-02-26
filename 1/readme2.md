@@ -73,7 +73,7 @@ type = 01, Fop = 00, Ri = 1, Rj = 2, Rk = 3)
 ### Schematic
 https://github.com/z1skgr/Tomasulo-BASED-processor/issues/1#issue-1151689577 <br>
 
-For more details on each individual part see 1/doc
+For more details on each individual part see 1/docs
 
 
 
