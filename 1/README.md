@@ -1,4 +1,4 @@
-# HRY415-project-1
+# Tomasulor Algorithm
 
 Simple Tomasulo based processor back-end using VHDL. 
 
