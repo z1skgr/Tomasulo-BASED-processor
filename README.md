@@ -73,6 +73,9 @@ type = 01, Fop = 00, Ri = 1, Rj = 2, Rk = 3)
 ### Interconnections
 * Unit interfaces
 
+### Schematic
+https://github.com/z1skgr/Tomasulo-BASED-processor/issues/1#issue-1151689577
+
 ## Parts
 * Tomasulo algorithm
 * Tomasulo + Reorder Buffer + Ld/St Queue
