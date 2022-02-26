@@ -30,7 +30,9 @@
 * Fills and empties like queue. 
 * Load / Store queue =>retains fields addresses <br>
  &emsp; &emsp; &ensp; &emsp; &ensp; &emsp; &ensp; &emsp; &ensp;=>compares for memory dependencies. 
-
+* Check dependencies via memory [^1][^2].
+* Priority on Loads [^3][^4]
+* Pipelined memory with 3-cycles delay
 
 
 
@@ -43,5 +45,8 @@ For more details, see [doc](https://github.com/z1skgr/Tomasulo-BASED-processor/t
 ## Acknowledgements
 * This project was created for the requirements of the lesson Computer Architecture
 
-
-
+[^1]: A load depends on previous stores in same or to an unknown address
+[^2]: A store depends on previous load or store in the same or to an unknown address. 
+[^3]: If there is, it issues the first one to the memory ready load.
+[^4]: When there is no Load ready, it issues the first ready store to the memory.
+[^5]: One port with Load/Store queue unit
