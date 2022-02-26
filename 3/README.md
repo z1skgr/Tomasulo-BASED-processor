@@ -2,3 +2,4 @@
 
 Simple Tomasulo based processor back-end using VHDL. <br>
 Replaced register renaming with reorder buffer.
+LD/ST Memory Queue
