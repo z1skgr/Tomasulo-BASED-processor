@@ -76,6 +76,8 @@ type = 01, Fop = 00, Ri = 1, Rj = 2, Rk = 3)
 ### Schematic
 https://github.com/z1skgr/Tomasulo-BASED-processor/issues/1#issue-1151689577
 
+for more details on each individual part see 1/doc
+
 ## Parts
 * Tomasulo algorithm
 * Tomasulo + Reorder Buffer + Ld/St Queue
