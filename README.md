@@ -3,7 +3,7 @@
 
 ## Parts
 * [Tomasulo algorithm](readme2.md)
-* [Tomasulo + Reorder Buffer + Ld/St Queue](readme3.md)
+* [Tomasulo + Reorder Buffer + Ld/St Queue](3/readme3.md)
 
 
 ## Setup
