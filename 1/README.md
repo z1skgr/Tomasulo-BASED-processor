@@ -4,16 +4,10 @@ Simple Tomasulo based processor back-end using VHDL.
 
 Created and tested the following individual units: 
 
-Issue unit
-
-Register File
-
-logical Reservation Station
-
-logical Function Unit
-
-numerical Reservation Station
-
-numerical Function Unit
-
-CDB controller
+1. Issue unit
+2. Register File
+3. Logical Reservation Station
+4. Logical Function Unit
+5. Numerical Reservation Station
+6. Numerical Function Unit
+7. CDB controller
