@@ -64,7 +64,7 @@ Controlling and accessing the Common Data Bus is pipelined in two cycles.
 
 
 
-> consider for example the command under decoding is ]add r1, r2, r3 (issue = 1, FU-
+> consider for example the command under decoding is add r1, r2, r3 (issue = 1, FU-
 type = 01, Fop = 00, Ri = 1, Rj = 2, Rk = 3)
 > Unit with 2 Logical RS 
 > Unit with 3 Arithmetic RS
@@ -75,7 +75,7 @@ type = 01, Fop = 00, Ri = 1, Rj = 2, Rk = 3)
 ## Schematic
 https://github.com/z1skgr/Tomasulo-BASED-processor/issues/1#issue-1151689577 <br>
 
-For more details on each individual part see 1/doc
+For more details on each individual part see [doc](1/doc)
 
 
 
