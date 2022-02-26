@@ -36,8 +36,9 @@
 
 
 ## Schematic
+https://github.com/z1skgr/Tomasulo-BASED-processor/issues/2#issue-1151794102
 
-
+For more details, see [doc](https://github.com/z1skgr/Tomasulo-BASED-processor/tree/main/3/docs/schematics)
 
 ## Acknowledgements
 * This project was created for the requirements of the lesson Computer Architecture
