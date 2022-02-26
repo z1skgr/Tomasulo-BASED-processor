@@ -16,8 +16,9 @@ To run the project
 3. File > Import > Existing Projects into Workspace > Locate project 
    * Copy projects into workspace if you do want to copy the project files to your current workspace location.
 
-To run the simulation (.wfg) 
+To run the simulation (.wcfg) 
 1. Find simulation files in hierarchy
    * Import them if they do not appear
 2. Simulate behavioral model
+3. Check system behavior based on scenarios (different input signal)
 
