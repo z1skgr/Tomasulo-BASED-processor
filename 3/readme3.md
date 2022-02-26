@@ -21,14 +21,13 @@
 ## Components
 ### Reorder Buffer
 * Replace register file
-* Queue => fills in issue command <br>
+* Queue => Stores issue command <br>
       &emsp; &emsp; &ensp;  =>empties serially when the command in the queue head has completed. 
 
 ### Ld / St memory access queue
-
 * Memory access through a unified memory access queue (Load / Store Queue). 
-* Fills and empties like queue. 
-* Load / Store queue =>retains fields addresses <br>
+* Fills/Empties like queue. 
+* Load/Store queue =>retains fields addresses <br>
  &emsp; &emsp; &ensp; &emsp; &ensp; &emsp; &ensp; &emsp; &ensp;=>compares for memory dependencies. 
 * Check dependencies via memory [^1][^2].
 * Priority on Loads [^3][^4]
