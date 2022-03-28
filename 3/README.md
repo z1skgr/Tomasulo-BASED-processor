@@ -29,7 +29,7 @@
 
 ## Schematic
 ### Full stack
-https://github.com/z1skgr/Tomasulo-BASED-processor/issues/2#issue-1151794102
+![back_end](https://user-images.githubusercontent.com/22920222/155844736-1091d569-3d03-4e67-81ec-c91e22f40822.png)
 
 ### Reorder buffer
 https://github.com/z1skgr/Tomasulo-BASED-processor/issues/3#issue-1151798739
