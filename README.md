@@ -2,7 +2,7 @@
 >   Simple Tomasulo based processor back-end using VHDL.
 
 ## Parts
-* [Tomasulo algorithm](1/readme2.md)
+* [Tomasulo algorithm](1/README.md)
 * [Tomasulo + Reorder Buffer + Ld/St Queue](3/readme3.md)
 
 
