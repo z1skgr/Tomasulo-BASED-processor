@@ -4,7 +4,6 @@
 * [General Info](#general-information)
 * [Components](#components)
 * [Schematic](#schematic)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
