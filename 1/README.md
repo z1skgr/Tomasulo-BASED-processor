@@ -83,8 +83,8 @@ For more details on each individual part see [doc](https://github.com/z1skgr/Tom
 
 [^1]: One cycle before the completion of the operation
 [^2]: As well as its notification result (V).
-[^3]: Delay 2 cycles
-[^4]:  Delay 3 cycles
+[^3]: 2-cycle delay
+[^4]: 3-cycle delay
 [^5]: Pipelined
 [^6]: One cycle before FU export result
-[^7]: Same cycle we have registration in a register (ie match with the CDB.Q) and reading of the same register, new data is read and the tag is read zero
+[^7]: Same cycle we have registration in a register (i.e match with the CDB.Q) and reading of the same register, new data is read and the tag is read zero
