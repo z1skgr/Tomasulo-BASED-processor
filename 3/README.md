@@ -32,10 +32,9 @@
 ![back_end](https://user-images.githubusercontent.com/22920222/155844736-1091d569-3d03-4e67-81ec-c91e22f40822.png)
 
 ### Reorder buffer
-https://github.com/z1skgr/Tomasulo-BASED-processor/issues/3#issue-1151798739
+![reorder_buffer](https://user-images.githubusercontent.com/22920222/155845165-60167119-732f-424c-9de9-57601f2dccb0.png)
 
 ### Reorder line 
-https://github.com/z1skgr/Tomasulo-BASED-processor/issues/4#issue-1151800660
 
 
 For more details, see [doc](https://github.com/z1skgr/Tomasulo-BASED-processor/tree/main/3/docs/schematics)
