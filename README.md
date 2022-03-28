@@ -22,3 +22,5 @@ To run the simulation (.wcfg)
 2. Simulate behavioral model
 3. Check system behavior based on scenarios (different input signal)
 
+## Acknowledgements
+* This project was created for the requirements of the lesson Computer Architecture
