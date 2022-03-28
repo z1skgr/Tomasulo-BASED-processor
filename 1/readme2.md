@@ -70,7 +70,7 @@ type = 01, Fop = 00, Ri = 1, Rj = 2, Rk = 3)
 * Unit interfaces
 
 ## Schematic
-https://github.com/z1skgr/Tomasulo-BASED-processor/issues/1#issue-1151689577 <br>
+![schematic_ALL](https://user-images.githubusercontent.com/22920222/155841263-5f907007-f39d-40f0-a9b4-f0634a1da21d.png) <br>
 
 For more details on each individual part see [doc](https://github.com/z1skgr/Tomasulo-BASED-processor/tree/main/1/docs/schematics)
 
