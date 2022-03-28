@@ -35,10 +35,8 @@
 ![reorder_buffer](https://user-images.githubusercontent.com/22920222/155845165-60167119-732f-424c-9de9-57601f2dccb0.png)
 
 ### Reorder line 
-
+![Bufferline](https://user-images.githubusercontent.com/22920222/155845331-34945ad4-b2ee-4338-a060-95a9ab601fe9.png)
 
 For more details, see [doc](https://github.com/z1skgr/Tomasulo-BASED-processor/tree/main/3/docs/schematics)
 
-## Acknowledgements
-* This project was created for the requirements of the lesson Computer Architecture
 
